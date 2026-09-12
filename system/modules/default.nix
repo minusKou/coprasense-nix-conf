@@ -1,0 +1,7 @@
+{
+  imports = [
+    ./boot
+    ./core
+    ./hardware
+  ];
+}
