@@ -3,7 +3,6 @@
     ./boot
     ./core
     ./hardware
-    ./network
     ./programs
   ];
 }
