@@ -3,7 +3,7 @@
     hostName = "coprasense";
     firewall = {
       enable = true;
-      allowedTCPPorts = [ 22 ];
+      allowedTCPPorts = [ 22 8000 ];
     };
     interfaces.eno1.ipv4.addresses = [{
       address = "10.0.30.4";
